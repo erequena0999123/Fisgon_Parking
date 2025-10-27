@@ -70,7 +70,7 @@ El proyecto combina **programación embebida de bajo nivel** con **desarrollo we
 El código está organizado siguiendo la **separación de roles** de los módulos **ESP Cliente** y **ESP Servidor**, además de incluir toda la **documentación gráfica** y **archivos de apoyo** necesarios para la implementación y pruebas.  
 
 ```bash
-FisgonParkingMain/
+Fisgon_Parking/
 ├── esp_cliente/             # Código fuente para los módulos de adquisición de datos (Esclavos)
 │   ├── subarchivo_sensores/ # Separación de las acciones de captura y formateo
 │   └── ...
@@ -131,7 +131,7 @@ Para replicar el sistema, necesitarás el **IDE de Arduino** y configurar correc
 - **Hardware:**  
   - Módulos ESP (Cliente y Servidor)  
   - Sensores Ultrasónicos (ejemplo: **HC-SR04**)  
-  - Fuente de alimentación estable
+  - Fuente de alimentación estable (Módulo **MB-102**)
 
 - **Extra:**  
   - [Consultar el manual de uso](https://github.com/erequena0999123/FisgonParkingMain/blob/main/Manual%20de%20Uso.docx)
