@@ -1,4 +1,4 @@
-# 🅿️ FisgonParkingMain: Monitoreo IoT de Parqueaderos  
+# 🅿️ Fisgon Parking: Monitoreo IoT de Parqueaderos  
 
 ---
 
@@ -7,7 +7,7 @@ Este repositorio contiene la implementación completa del proyecto de tesis:
 
 **DISEÑO E IMPLEMENTACIÓN DE UN SISTEMA PROTOTIPO DE MONITOREO PARA LOS PARQUEADEROS DEL EDIFICIO MATRIZ DEL INSTITUTO SUPERIOR TECNOLÓGICO SUDAMERICANO, QUITO.**
 
-**FisgonParkingMain** es un sistema prototipo de monitoreo de disponibilidad de parqueaderos que utiliza **hardware de bajo costo** (módulos ESP) y **sensores ultrasónicos** para ofrecer una solución de gestión en tiempo real.  
+**Fisgon Parking** es un sistema prototipo de monitoreo de disponibilidad de parqueaderos que utiliza **hardware de bajo costo** (módulos ESP) y **sensores ultrasónicos** para ofrecer una solución de gestión en tiempo real.  
 
 El proyecto aborda la necesidad de optimizar el **tiempo de búsqueda** y la **eficiencia en el uso de los estacionamientos institucionales**.  
 Los datos de disponibilidad se capturan de forma distribuida y se consolidan en un servidor central, que luego expone una **interfaz web** para su visualización remota.  
