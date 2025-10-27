@@ -135,6 +135,7 @@ Para replicar el sistema, necesitarás el **IDE de Arduino** y configurar correc
 
 - **Extra:**  
   - [Consultar el manual de uso](https://github.com/erequena0999123/FisgonParkingMain/blob/main/Manual%20de%20Uso.docx)
+  - [Consulta toda la documentación del proyecto](https://github.com/erequena0999123/Fisgon_Parking/blob/main/Proyecto%20de%20Titulaci%C3%B3n%20-%20Requena%20Emmanuel.pdf)
 
 ---
 
